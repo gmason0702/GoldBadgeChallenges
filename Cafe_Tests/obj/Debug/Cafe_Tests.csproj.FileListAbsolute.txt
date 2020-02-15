@@ -1,0 +1,15 @@
+C:\ElevenFiftyProjects\Gold Badge\DotNet\GoldBadgeChallenges\Cafe_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\ElevenFiftyProjects\Gold Badge\DotNet\GoldBadgeChallenges\Cafe_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\ElevenFiftyProjects\Gold Badge\DotNet\GoldBadgeChallenges\Cafe_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\ElevenFiftyProjects\Gold Badge\DotNet\GoldBadgeChallenges\Cafe_Tests\bin\Debug\Cafe_Tests.dll
+C:\ElevenFiftyProjects\Gold Badge\DotNet\GoldBadgeChallenges\Cafe_Tests\bin\Debug\Cafe_Tests.pdb
+C:\ElevenFiftyProjects\Gold Badge\DotNet\GoldBadgeChallenges\Cafe_Tests\bin\Debug\Cafe_Repository.dll
+C:\ElevenFiftyProjects\Gold Badge\DotNet\GoldBadgeChallenges\Cafe_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\ElevenFiftyProjects\Gold Badge\DotNet\GoldBadgeChallenges\Cafe_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\ElevenFiftyProjects\Gold Badge\DotNet\GoldBadgeChallenges\Cafe_Tests\bin\Debug\Cafe_Repository.pdb
+C:\ElevenFiftyProjects\Gold Badge\DotNet\GoldBadgeChallenges\Cafe_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\ElevenFiftyProjects\Gold Badge\DotNet\GoldBadgeChallenges\Cafe_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\ElevenFiftyProjects\Gold Badge\DotNet\GoldBadgeChallenges\Cafe_Tests\obj\Debug\Cafe_Tests.csprojAssemblyReference.cache
+C:\ElevenFiftyProjects\Gold Badge\DotNet\GoldBadgeChallenges\Cafe_Tests\obj\Debug\Cafe_Tests.csproj.CopyComplete
+C:\ElevenFiftyProjects\Gold Badge\DotNet\GoldBadgeChallenges\Cafe_Tests\obj\Debug\Cafe_Tests.dll
+C:\ElevenFiftyProjects\Gold Badge\DotNet\GoldBadgeChallenges\Cafe_Tests\obj\Debug\Cafe_Tests.pdb

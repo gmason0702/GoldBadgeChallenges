@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "01_CafeUI/1.0.0": {
+        "dependencies": {
+          "Cafe_Repository": "1.0.0"
+        },
+        "runtime": {
+          "01_CafeUI.dll": {}
+        }
+      },
+      "Cafe_Repository/1.0.0": {
+        "runtime": {
+          "Cafe_Repository.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "01_CafeUI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Cafe_Repository/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

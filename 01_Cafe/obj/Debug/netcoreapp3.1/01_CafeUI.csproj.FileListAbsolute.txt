@@ -1,0 +1,14 @@
+C:\ElevenFiftyProjects\Gold Badge\DotNet\GoldBadgeChallenges\01_Cafe\bin\Debug\netcoreapp3.1\01_CafeUI.exe
+C:\ElevenFiftyProjects\Gold Badge\DotNet\GoldBadgeChallenges\01_Cafe\bin\Debug\netcoreapp3.1\01_CafeUI.deps.json
+C:\ElevenFiftyProjects\Gold Badge\DotNet\GoldBadgeChallenges\01_Cafe\bin\Debug\netcoreapp3.1\01_CafeUI.runtimeconfig.json
+C:\ElevenFiftyProjects\Gold Badge\DotNet\GoldBadgeChallenges\01_Cafe\bin\Debug\netcoreapp3.1\01_CafeUI.runtimeconfig.dev.json
+C:\ElevenFiftyProjects\Gold Badge\DotNet\GoldBadgeChallenges\01_Cafe\bin\Debug\netcoreapp3.1\01_CafeUI.dll
+C:\ElevenFiftyProjects\Gold Badge\DotNet\GoldBadgeChallenges\01_Cafe\bin\Debug\netcoreapp3.1\01_CafeUI.pdb
+C:\ElevenFiftyProjects\Gold Badge\DotNet\GoldBadgeChallenges\01_Cafe\bin\Debug\netcoreapp3.1\Cafe_Repository.dll
+C:\ElevenFiftyProjects\Gold Badge\DotNet\GoldBadgeChallenges\01_Cafe\bin\Debug\netcoreapp3.1\Cafe_Repository.pdb
+C:\ElevenFiftyProjects\Gold Badge\DotNet\GoldBadgeChallenges\01_Cafe\obj\Debug\netcoreapp3.1\01_CafeUI.csprojAssemblyReference.cache
+C:\ElevenFiftyProjects\Gold Badge\DotNet\GoldBadgeChallenges\01_Cafe\obj\Debug\netcoreapp3.1\01_CafeUI.AssemblyInfoInputs.cache
+C:\ElevenFiftyProjects\Gold Badge\DotNet\GoldBadgeChallenges\01_Cafe\obj\Debug\netcoreapp3.1\01_CafeUI.AssemblyInfo.cs
+C:\ElevenFiftyProjects\Gold Badge\DotNet\GoldBadgeChallenges\01_Cafe\obj\Debug\netcoreapp3.1\01_CafeUI.csproj.CopyComplete
+C:\ElevenFiftyProjects\Gold Badge\DotNet\GoldBadgeChallenges\01_Cafe\obj\Debug\netcoreapp3.1\01_CafeUI.dll
+C:\ElevenFiftyProjects\Gold Badge\DotNet\GoldBadgeChallenges\01_Cafe\obj\Debug\netcoreapp3.1\01_CafeUI.pdb
