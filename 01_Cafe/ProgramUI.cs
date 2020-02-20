@@ -79,10 +79,8 @@ namespace _01_Cafe
 
             Console.WriteLine("Please enter the description of the menu item");
             newItem.MealDescription = Console.ReadLine();
-
-            //List<string> menuItemIngredients = new List<string>();//--------------------------------three variations of add ingredients that don't work
-         
             _menuRepo.AddIngredients(newItem);
+
 
             List<string> mealIngredients = new List<string> { };
             Console.WriteLine("Please add an ingredient to the list");

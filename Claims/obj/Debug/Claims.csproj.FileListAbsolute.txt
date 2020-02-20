@@ -1,0 +1,9 @@
+C:\ElevenFiftyProjects\Gold Badge\DotNet\GoldBadgeChallenges\Claims\bin\Debug\Claims.exe.config
+C:\ElevenFiftyProjects\Gold Badge\DotNet\GoldBadgeChallenges\Claims\bin\Debug\Claims.exe
+C:\ElevenFiftyProjects\Gold Badge\DotNet\GoldBadgeChallenges\Claims\bin\Debug\Claims.pdb
+C:\ElevenFiftyProjects\Gold Badge\DotNet\GoldBadgeChallenges\Claims\bin\Debug\Claims_Repo.dll
+C:\ElevenFiftyProjects\Gold Badge\DotNet\GoldBadgeChallenges\Claims\bin\Debug\Claims_Repo.pdb
+C:\ElevenFiftyProjects\Gold Badge\DotNet\GoldBadgeChallenges\Claims\obj\Debug\Claims.csprojAssemblyReference.cache
+C:\ElevenFiftyProjects\Gold Badge\DotNet\GoldBadgeChallenges\Claims\obj\Debug\Claims.csproj.CopyComplete
+C:\ElevenFiftyProjects\Gold Badge\DotNet\GoldBadgeChallenges\Claims\obj\Debug\Claims.exe
+C:\ElevenFiftyProjects\Gold Badge\DotNet\GoldBadgeChallenges\Claims\obj\Debug\Claims.pdb

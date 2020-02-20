@@ -32,7 +32,6 @@ namespace Cafe_Tests
             Assert.IsTrue(directoryHasContent);
         }
 
-
         private MenuRepository _repo;
         private MenuItem _content;
 
