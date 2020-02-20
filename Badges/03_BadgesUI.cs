@@ -100,6 +100,24 @@ namespace Badges
 
             _badgesRepo.RemoveDoorFromBadge(badgeID, doorRemoved);
         }
+        public void RemoveAllDoors(int badgeID)
+        {
+            Console.WriteLine($"Would you like to remove all door access for badge {badgeID}?(y/n)");
+            char response = Console.ReadKey().KeyChar;
+            if (response =='y')
+            {
+                Console.WriteLine("\n");
+                _badgesRepo.RemoveAllDoorsFromBadge(badgeID);
+                Console.WriteLine("Door access has been removed for this badge. Press any key to continue...");
+                Console.ReadKey();
+                
+            }
+            else 
+            {
+                UpdateBadge();
+            }
+           
+        }
 
         public void AddDoor(int badgeID)
         {
@@ -126,7 +144,8 @@ namespace Badges
             Console.WriteLine($"{badgeIdInput} has access to door(s) {doorString}");
             Console.WriteLine("What would you like to do?\n" +
                 "1.)  Remove a door\n" +
-                "2.)  Add a door");
+                "2.)  Add a door\n" +
+                "3.)  Remove all doors from badge");
             string input = Console.ReadLine();
             switch (input)
             {
@@ -135,6 +154,9 @@ namespace Badges
                     break;
                 case "2":
                     AddDoor(badgeIdInput);
+                    break;
+                case "3":
+                    RemoveAllDoors(badgeIdInput);
                     break;
                 default:
                     break;

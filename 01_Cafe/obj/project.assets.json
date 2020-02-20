@@ -2,27 +2,27 @@
   "version": 3,
   "targets": {
     ".NETCoreApp,Version=v3.1": {
-      "Cafe_Repository/1.0.0": {
+      "01_Cafe_Repository/1.0.0": {
         "type": "project",
         "compile": {
-          "bin/placeholder/Cafe_Repository.dll": {}
+          "bin/placeholder/01_Cafe_Repository.dll": {}
         },
         "runtime": {
-          "bin/placeholder/Cafe_Repository.dll": {}
+          "bin/placeholder/01_Cafe_Repository.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "Cafe_Repository/1.0.0": {
+    "01_Cafe_Repository/1.0.0": {
       "type": "project",
-      "path": "../Cafe_Repository/Cafe_Repository.csproj",
-      "msbuildProject": "../Cafe_Repository/Cafe_Repository.csproj"
+      "path": "../Cafe_Repository/01_Cafe_Repository.csproj",
+      "msbuildProject": "../Cafe_Repository/01_Cafe_Repository.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
-      "Cafe_Repository >= 1.0.0"
+      "01_Cafe_Repository >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -51,8 +51,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\ElevenFiftyProjects\\Gold Badge\\DotNet\\GoldBadgeChallenges\\Cafe_Repository\\Cafe_Repository.csproj": {
-              "projectPath": "C:\\ElevenFiftyProjects\\Gold Badge\\DotNet\\GoldBadgeChallenges\\Cafe_Repository\\Cafe_Repository.csproj"
+            "C:\\ElevenFiftyProjects\\Gold Badge\\DotNet\\GoldBadgeChallenges\\Cafe_Repository\\01_Cafe_Repository.csproj": {
+              "projectPath": "C:\\ElevenFiftyProjects\\Gold Badge\\DotNet\\GoldBadgeChallenges\\Cafe_Repository\\01_Cafe_Repository.csproj"
             }
           }
         }

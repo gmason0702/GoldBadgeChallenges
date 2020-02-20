@@ -67,5 +67,16 @@ namespace BadgesRepository
                 }
             }
         }
+        public void RemoveAllDoorsFromBadge(int badgeID)
+        {
+            foreach (int ID in _badgeRepo.Keys)
+            {
+                if (badgeID == ID)
+                {
+                    List<string> doors = _badgeRepo[ID];
+                    doors.Clear();
+                }
+            }
+        }
     }
 }

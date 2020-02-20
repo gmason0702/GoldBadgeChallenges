@@ -27,8 +27,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\ElevenFiftyProjects\\Gold Badge\\DotNet\\GoldBadgeChallenges\\Cafe_Repository\\Cafe_Repository.csproj": {
-                "projectPath": "C:\\ElevenFiftyProjects\\Gold Badge\\DotNet\\GoldBadgeChallenges\\Cafe_Repository\\Cafe_Repository.csproj"
+              "C:\\ElevenFiftyProjects\\Gold Badge\\DotNet\\GoldBadgeChallenges\\Cafe_Repository\\01_Cafe_Repository.csproj": {
+                "projectPath": "C:\\ElevenFiftyProjects\\Gold Badge\\DotNet\\GoldBadgeChallenges\\Cafe_Repository\\01_Cafe_Repository.csproj"
               }
             }
           }
@@ -60,12 +60,12 @@
         }
       }
     },
-    "C:\\ElevenFiftyProjects\\Gold Badge\\DotNet\\GoldBadgeChallenges\\Cafe_Repository\\Cafe_Repository.csproj": {
+    "C:\\ElevenFiftyProjects\\Gold Badge\\DotNet\\GoldBadgeChallenges\\Cafe_Repository\\01_Cafe_Repository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\ElevenFiftyProjects\\Gold Badge\\DotNet\\GoldBadgeChallenges\\Cafe_Repository\\Cafe_Repository.csproj",
-        "projectName": "Cafe_Repository",
-        "projectPath": "C:\\ElevenFiftyProjects\\Gold Badge\\DotNet\\GoldBadgeChallenges\\Cafe_Repository\\Cafe_Repository.csproj"
+        "projectUniqueName": "C:\\ElevenFiftyProjects\\Gold Badge\\DotNet\\GoldBadgeChallenges\\Cafe_Repository\\01_Cafe_Repository.csproj",
+        "projectName": "01_Cafe_Repository",
+        "projectPath": "C:\\ElevenFiftyProjects\\Gold Badge\\DotNet\\GoldBadgeChallenges\\Cafe_Repository\\01_Cafe_Repository.csproj"
       },
       "frameworks": {
         "net472": {}

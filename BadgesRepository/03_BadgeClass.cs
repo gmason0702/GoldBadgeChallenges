@@ -18,6 +18,5 @@ namespace BadgesRepository
 
         public int BadgeID { get; set; }
         public List<string> DoorNames { get; set; }
-
     }
 }
