@@ -7,25 +7,38 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01_CafeUI", "01_Cafe\01_Caf
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01_Cafe", "01_Cafe", "{725E5EB3-F379-40ED-B559-C0D7076E9F6C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cafe_Tests", "Cafe_Tests\Cafe_Tests.csproj", "{FE540166-5BB8-4A51-9A13-F3F41959DDD3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01_Cafe_Tests", "Cafe_Tests\01_Cafe_Tests.csproj", "{FE540166-5BB8-4A51-9A13-F3F41959DDD3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cafe_Repository", "Cafe_Repository\Cafe_Repository.csproj", "{052DBAC5-1D2E-49FC-A282-BC155BE72894}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01_Cafe_Repository", "Cafe_Repository\01_Cafe_Repository.csproj", "{052DBAC5-1D2E-49FC-A282-BC155BE72894}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "02_Claims", "02_Claims", "{84EA1BB8-70ED-43B2-B55E-3FFDC073F78B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Claims", "Claims\Claims.csproj", "{1C39B452-541E-40AD-9E92-51E980F0CAD6}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02_Claims", "Claims\02_Claims.csproj", "{1C39B452-541E-40AD-9E92-51E980F0CAD6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Claims_Tests", "Claims_Tests\Claims_Tests.csproj", "{9C85B26A-F019-4298-8534-B4C439173831}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02_Claims_Tests", "Claims_Tests\02_Claims_Tests.csproj", "{9C85B26A-F019-4298-8534-B4C439173831}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Claims_Repo", "Claims_Repo\Claims_Repo.csproj", "{F2815629-4D6C-420C-BFF2-382FC304B6AC}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02_Claims_Repo", "Claims_Repo\02_Claims_Repo.csproj", "{F2815629-4D6C-420C-BFF2-382FC304B6AC}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "03_Badges", "03_Badges", "{F5CF893B-A907-4381-BFEB-0F8417515DDA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Badges", "Badges\Badges.csproj", "{0DB21921-B1C8-447D-B3BA-332294DF0936}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03_Badges", "Badges\03_Badges.csproj", "{0DB21921-B1C8-447D-B3BA-332294DF0936}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BadgesRepository", "BadgesRepository\BadgesRepository.csproj", "{A4A4FB5D-F978-4CC4-908D-F02254F3ECEE}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03_BadgesRepository", "BadgesRepository\03_BadgesRepository.csproj", "{A4A4FB5D-F978-4CC4-908D-F02254F3ECEE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BadgesTests", "BadgesTests\BadgesTests.csproj", "{939A4DD3-40B4-4DB1-8197-A5EA080D9980}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03_BadgesTests", "BadgesTests\03_BadgesTests.csproj", "{939A4DD3-40B4-4DB1-8197-A5EA080D9980}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "04_Outings", "04_Outings", "{F08E1F4E-0D72-4ABC-94F7-13320DE64A37}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04_Outings", "04_Outings\04_Outings.csproj", "{55F1F424-1DEA-4D1E-9C26-BB599B09224D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04_OutingsRepository", "04_OutingsRepository\04_OutingsRepository.csproj", "{C3A2D74A-3BC1-4B4D-A235-5DB52C64C419}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04_OutingsTests", "04_OutingsTests\04_OutingsTests.csproj", "{28CC4999-D4DB-4E4B-A262-DBE2633D8EEE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{6B145EA2-9809-4D8A-B1C0-84027C6BF2B2}"
+	ProjectSection(SolutionItems) = preProject
+		01_Cafe_Repository\01_Cafe_Repository.csproj = 01_Cafe_Repository\01_Cafe_Repository.csproj
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -69,6 +82,18 @@ Global
 		{939A4DD3-40B4-4DB1-8197-A5EA080D9980}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{939A4DD3-40B4-4DB1-8197-A5EA080D9980}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{939A4DD3-40B4-4DB1-8197-A5EA080D9980}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55F1F424-1DEA-4D1E-9C26-BB599B09224D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55F1F424-1DEA-4D1E-9C26-BB599B09224D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55F1F424-1DEA-4D1E-9C26-BB599B09224D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55F1F424-1DEA-4D1E-9C26-BB599B09224D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C3A2D74A-3BC1-4B4D-A235-5DB52C64C419}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3A2D74A-3BC1-4B4D-A235-5DB52C64C419}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3A2D74A-3BC1-4B4D-A235-5DB52C64C419}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3A2D74A-3BC1-4B4D-A235-5DB52C64C419}.Release|Any CPU.Build.0 = Release|Any CPU
+		{28CC4999-D4DB-4E4B-A262-DBE2633D8EEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28CC4999-D4DB-4E4B-A262-DBE2633D8EEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28CC4999-D4DB-4E4B-A262-DBE2633D8EEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28CC4999-D4DB-4E4B-A262-DBE2633D8EEE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -83,6 +108,9 @@ Global
 		{0DB21921-B1C8-447D-B3BA-332294DF0936} = {F5CF893B-A907-4381-BFEB-0F8417515DDA}
 		{A4A4FB5D-F978-4CC4-908D-F02254F3ECEE} = {F5CF893B-A907-4381-BFEB-0F8417515DDA}
 		{939A4DD3-40B4-4DB1-8197-A5EA080D9980} = {F5CF893B-A907-4381-BFEB-0F8417515DDA}
+		{55F1F424-1DEA-4D1E-9C26-BB599B09224D} = {F08E1F4E-0D72-4ABC-94F7-13320DE64A37}
+		{C3A2D74A-3BC1-4B4D-A235-5DB52C64C419} = {F08E1F4E-0D72-4ABC-94F7-13320DE64A37}
+		{28CC4999-D4DB-4E4B-A262-DBE2633D8EEE} = {F08E1F4E-0D72-4ABC-94F7-13320DE64A37}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {820B689D-243A-43D7-A47B-1F4D7E2BD174}
